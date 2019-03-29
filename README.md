@@ -7,8 +7,7 @@ This is a command line app built using javascript, node.js, mysql database, and 
 MySQL / MySQL Workbench database:
 ![Screen Shot 2019-03-16 at 11 05 14 PM](https://user-images.githubusercontent.com/44386342/54485041-00cc3300-4840-11e9-891c-7e89531c8d34.png)
 
-Spun up a local server to run Bamazon:
-![Screen Shot 2019-03-16 at 9 52 45 PM](https://user-images.githubusercontent.com/44386342/54485006-797ebf80-483f-11e9-9c06-34dd7cbe9b9f.png)
+Spin up a local server to run Bamazon.
 
 Shoppers will be shown all available products (pulled from database), then asked questions to build their order using the Inquirer module:
 ![Screen Shot 2019-03-16 at 9 53 15 PM](https://user-images.githubusercontent.com/44386342/54485007-7d124680-483f-11e9-9113-5f555ff171a5.png)
